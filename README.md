@@ -1,5 +1,5 @@
 # library-management-system
-A simple desktop app for Library Management System connected to a Database
+This SQL programming project involves the creation of a database host application that interfaces with a backend SQL database implementing a Library Management System. Users of the system are understood to be librarians (not book borrowers).
 
 **Required dependency jars**
 
